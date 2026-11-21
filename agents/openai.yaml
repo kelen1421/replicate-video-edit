@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐帧复刻剪辑"
+  short_description: "逐段拆解镜头与包装，交付可编辑工程，将两版载入网页同步逐帧对照"
+  default_prompt: "用 $replicate-video-edit 复刻参考片的包装，并把原片和复刻片放进网页窗口同步对照。"
